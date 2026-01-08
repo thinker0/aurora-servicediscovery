@@ -9,7 +9,7 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/common v0.26.0
-	github.com/sirupsen/logrus v1.6.0
+	github.com/sirupsen/logrus v1.8.3
 	github.com/thinker0/go-serversets v1.1.2
 	github.com/urfave/negroni v1.0.0
 	go.uber.org/automaxprocs v1.3.0
